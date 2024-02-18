@@ -5,5 +5,8 @@
 
 
 Візьміть датасет [movielens](https://surprise.readthedocs.io/en/stable/dataset.html) і побудуйте модель матричної факторизації. У даній бібліотеці він має назву SVD. Підберіть найкращі параметри за допомогою крос-валідації, також поекспериментуйте з іншими [алгоритмами](https://surprise.readthedocs.io/en/stable/prediction_algorithms_package.html) розрахунків (SVD++, NMF) і оберіть той, який буде оптимальним.
+![gr2](https://github.com/RostislavB74/DS_HW7/assets/132708200/cd34e485-9649-438e-97b6-fcadf0ecfb0f)
+![gr3](https://github.com/RostislavB74/DS_HW7/assets/132708200/cac318a7-a3fa-4cae-b7e4-17eaeae48338)
+
 
 
